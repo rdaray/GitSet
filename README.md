@@ -27,3 +27,10 @@ For overview of Forking Repo ([https://help.github.com/en/articles/fork-a-repo])
 Forking a Repository (Repo) creates a copy of the Repo, so you can experiment with it and not effect the original.
 
 Go to a Repo, and find the **Fork** button in the upper right corner. A copy of the repo will then be available to work with in your account. 
+
+### Adding Branch Protection Rules ###
+
+In a **Public Repository**, click the **Settings** tab, choose **Branches** from the column on the left, and under **Branch protection rules** click **Add rule**
+
+To make the repository so PRs must be made on a separate branch and can only be merged with at least one review from a team member:
+
