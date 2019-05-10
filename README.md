@@ -15,10 +15,12 @@ You can create a new repository on your personal account or any organization whe
 
 As a security measure, it is a good practice to ensure Pull Requests (PRs) must be made on a separate branch and require at least one review from a team member to be merged in the master branch.
 
+### Adding Branch Protection Rules ###
+
 1. Click **Settings** in the repository
-2. Click **Branches** in the left columen
+2. Click **Branches** in the left column
 3. By **Branch protection rules** click the **Add rule**
-4. Under **Branch protection rule** tick the box for **Require pull request reviews before merging**
+4. Under **Branch protection rule** tick the box for **Require pull request reviews before merging**. This will set the repository so PRs must be made on a separate branch and can only be merged with at least one review from a team member:
 
 ### Forking A Repository ###
 
@@ -28,9 +30,5 @@ Forking a Repository (Repo) creates a copy of the Repo, so you can experiment wi
 
 Go to a Repo, and find the **Fork** button in the upper right corner. A copy of the repo will then be available to work with in your account. 
 
-### Adding Branch Protection Rules ###
 
-In a **Public Repository**, click the **Settings** tab, choose **Branches** from the column on the left, and under **Branch protection rules** click **Add rule**
-
-To make the repository so PRs must be made on a separate branch and can only be merged with at least one review from a team member:
 
