@@ -30,5 +30,18 @@ Forking a Repository (Repo) creates a copy of the Repo, so you can experiment wi
 
 Go to a Repo, and find the **Fork** button in the upper right corner. A copy of the repo will then be available to work with in your account. 
 
+### Create an Issue ###
+
+Report a problem in the upstream repo by creating a new issue.
+
+In a Repo, click the **Issues** tab, and click on **New issue** at the bottom right.
+
+Type a title in the subject box, then write up the issue under **Write**
+
+Click on the **Submit new issue** button. The issue is created and added to the issues list.
+
+An email notification is sent to the repo owner for the new issue.
+
+Upstream can fix the issue. Good practice is to refer to the commit or pull request that resolved the issue before closing it.
 
 
