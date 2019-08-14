@@ -44,4 +44,22 @@ An email notification is sent to the repo owner for the new issue.
 
 Upstream can fix the issue. Good practice is to refer to the commit or pull request that resolved the issue before closing it.
 
+### Submit A Ticket ###
 
+Navigate to the GitHub Support portal. https://github.com/contact
+
+Under "Name," type your name. 
+
+Use the Email drop-down menu, and select the email address you'd like GitHub Support to contact.
+
+Under "Subject", type a descriptive title for the issue you're having.
+
+Under "How can we help", provide any additional information that will help the Support team troubleshoot the problem. Helpful information may include:
+
+* Steps to reproduce the incident
+* Any special circumstances surrounding the discovery of the issue (for example, the first occurrence or occurrence after a specific event, frequency of occurrence, business impact of the problem, and suggested urgency)
+* Exact wording of error messages
+
+Optionally, attach files by dragging and dropping, uploading, or pasting from the clipboard.
+
+Click **Send request**.
